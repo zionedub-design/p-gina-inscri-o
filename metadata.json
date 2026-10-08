@@ -1,0 +1,7 @@
+{
+  "name": "Sorteio BMW R 1300 GS Triple Black",
+  "description": "Página oficial de inscrição para o sorteio da BMW R 1300 GS Triple Black com emissão e consulta de bilhetes da sorte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
